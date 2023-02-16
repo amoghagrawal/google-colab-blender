@@ -22,8 +22,8 @@ os.environ["LD_PRELOAD"] = "/usr/lib/x86_64-linux-gnu/libtcmalloc_minimal.so.4" 
 
 #@title Setup
 #@markdown Enter some dogshit 
-username = "BlenderThings" #@param {type: "string"}
-key = "amogh336agrawal" #@param {type: "string"}
+username = "username" #@param {type: "string"}
+key = "password" #@param {type: "string"}
 computemethod = "GPU" #@param ["GPU", "CPU"] {allow-input: false}
 downloadUrl = "https://www.sheepit-renderfarm.com/media/applet/client-latest.php"
 #@markdown ---
