@@ -4,8 +4,7 @@
 #########################################
 
 #########################################
-#Press "Control + Shift + I" while in the 
-#browser (command + option + c in Safari) 
+//Press "Control + Shift + I" while in the browser
 //and paste the following code into the console tab. 
 //the 60,000 is how many milliseconds to wait before clicking
 #########################################
